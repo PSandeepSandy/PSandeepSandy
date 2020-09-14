@@ -1,6 +1,9 @@
-### Hi there 👋
+<img src="https://github.com/PSandeepSandy/PSandeepSandy/blob/master/profile.gif?raw=true" width="150%">
 
 <!--
+### Hi there 👋
+
+
 **PSandeepSandy/PSandeepSandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
